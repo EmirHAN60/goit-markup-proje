@@ -222,3 +222,44 @@ button {
 .social-media-card h3 {
     color: #FBFBFB;
 }
+
+footer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #7A3145;
+    padding: 60px 0;
+}
+
+.footer-header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.footer-h1 {
+    color: white;
+}
+
+.footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.footer-terms {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #D4BFC4;
+}
